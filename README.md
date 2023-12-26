@@ -2,8 +2,6 @@
 <h3 align="center">A passionate Computer Engineer graduate from CSUSB!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pablov07&label=Profile%20views&color=0e75b6&style=flat" alt="pablov07" /> </p>
-
-- 🔭 I’m currently working on
   
 - 📫 How to reach me **pablovazquez606@gmail.com**
 
